@@ -6,10 +6,12 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  background-color: white;
+
 }
 
 .display {
-  background-color: rgb(255, 255, 125);
+  /* background-color: rgb(255, 255, 125); */
   width: 150px;
   height: 150px;
   border: 2px solid;
